@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tinydb
+langchain
+chromadb
+openai
+python-dotenv
+python-multipart
+tiktoken
+langchain_openai
+langchain-community
